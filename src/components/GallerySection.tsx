@@ -10,7 +10,7 @@ const galleryItemsData: GalleryItem[] = [
   {
     id: 1,
     className: "gallery-item-lg",
-    src: "/images/gallery-tea-pour.jpg",
+    src: "/images/gallery-tea-pour.png",
     alt: "തമിഴ് മീറ്റർ ചായ പതച്ചൊഴിക്കുന്നു",
     title: "തമിഴ് സ്റ്റൈൽ മീറ്റർ ചായ",
     sub: "പതഞ്ഞുപൊങ്ങുന്ന തിളച്ച പാൽചായയുടെ ചന്തം",
@@ -30,7 +30,7 @@ const galleryItemsData: GalleryItem[] = [
   {
     id: 3,
     className: "gallery-item-sm",
-    src: "/images/gallery-tea-stall.jpg",
+    src: "/images/gallery-tea-stall.png",
     alt: "മണിവട കടയുടെ ഊഷ്മളമായ അന്തരീക്ഷം",
     title: "കടയുടെ നാടൻ അന്തരീക്ഷം",
     sub: "സൗഹൃദവും സന്തോഷവും നിറഞ്ഞ ചായസമയം",

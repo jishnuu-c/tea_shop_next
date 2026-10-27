@@ -7,7 +7,7 @@ export default function StorySection() {
         {/* Story Image Frame */}
         <div className="story-image-frame">
           <Image
-            src="/images/gallery-tea-stall.jpg"
+            src="/images/gallery-tea-stall.png"
             alt="മണിവട നാടൻ ചായക്കട അന്തരീക്ഷം"
             className="story-image"
             width={600}
