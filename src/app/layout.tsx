@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     "vada",
     "kerala tea kadai",
     "tamil tea stall",
-    "parippu vada",
+    "idli",
     "medu vada",
     "pazham pori",
     "chai",

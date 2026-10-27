@@ -32,7 +32,7 @@ export default function MenuSection() {
                 <div className="menu-card-image-wrap">
                   <Image
                     src={item.image}
-                    alt={`${item.nameMalayalam} - ${item.englishSubtitle}`}
+                    alt={item.id === "idli" ? "Freshly steamed South Indian idli" : `${item.nameMalayalam} - ${item.englishSubtitle}`}
                     className="menu-card-image"
                     width={600}
                     height={400}

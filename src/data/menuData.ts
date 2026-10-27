@@ -36,16 +36,16 @@ export const menuItems: MenuItem[] = [
     category: "tea",
   },
   {
-    id: "parippu-vada",
-    nameMalayalam: "പരിപ്പ് വട",
-    nameTamil: "பருப்பு வடை",
-    englishSubtitle: "Crispy Chana Dal Vada",
-    descriptionMalayalam: "കടലപ്പരിപ്പും ഉള്ളിയും പച്ചമുളകും കറിവേപ്പിലയും ചേർത്ത് നല്ല മൊരിവിൽ വറുത്തെടുത്ത തനി നാടൻ പരിപ്പുവട.",
-    descriptionEnglish: "Crunchy on the outside, hearty inside. Coarsely ground lentils with onions, green chillies, and fried curry leaves.",
-    image: "/images/menu-parippu-vada.jpg",
-    price: null, // Set e.g. 12 or "₹12" when configured
-    badge: "Crispy & Hot",
-    category: "vada",
+    id: "idli",
+    nameMalayalam: "ഇഡ്ഡലി",
+    nameTamil: "இட்லி",
+    englishSubtitle: "Idli",
+    descriptionMalayalam: "പഞ്ഞിപോലെ മൃദുവായ ചൂടൻ ഇഡ്ഡലി, തനത് ദക്ഷിണേന്ത്യൻ വിഭവം.",
+    descriptionEnglish: "Soft, fluffy steamed idli, a classic South Indian favourite.",
+    image: "/images/menu-idli.jpg",
+    price: null, // Set e.g. 15 or "₹15" when configured
+    badge: "Steamed & Soft",
+    category: "snacks",
   },
   {
     id: "uzhunnu-vada",
