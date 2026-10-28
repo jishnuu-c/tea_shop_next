@@ -42,7 +42,7 @@ export const menuItems: MenuItem[] = [
     englishSubtitle: "Idli",
     descriptionMalayalam: "പഞ്ഞിപോലെ മൃദുവായ ചൂടൻ ഇഡ്ഡലി, തനത് ദക്ഷിണേന്ത്യൻ വിഭവം.",
     descriptionEnglish: "Soft, fluffy steamed idli, a classic South Indian favourite.",
-    image: "/images/menu-idli.jpg",
+    image: "/images/menu-idli-platter.jpg",
     price: null, // Set e.g. 15 or "₹15" when configured
     badge: "Steamed & Soft",
     category: "snacks",
@@ -54,7 +54,7 @@ export const menuItems: MenuItem[] = [
     englishSubtitle: "Golden Medu / Uzhunnu Vada",
     descriptionMalayalam: "പുറമെ നല്ല മൊരിവും ഉള്ളിൽ പഞ്ഞിപോലെ മൃദുത്വവുമുള്ള ഉഴുന്നുവട. ചായയ്ക്കൊപ്പം കഴിക്കാൻ ഏറ്റവും മികച്ച കൂട്ട്.",
     descriptionEnglish: "Golden crispy exterior with a cloud-soft interior, prepared with seasoned urad dal batter and fried golden brown.",
-    image: "/images/menu-uzhunnu-vada.jpg",
+    image: "/images/menu-vada-platter.jpg",
     price: null, // Set e.g. 15 or "₹15" when configured
     badge: "Fresh Batch",
     category: "vada",
@@ -69,18 +69,6 @@ export const menuItems: MenuItem[] = [
     image: "/images/menu-pazham-pori.jpg",
     price: null, // Set e.g. 15 or "₹15" when configured
     badge: "Kerala Classic",
-    category: "snacks",
-  },
-  {
-    id: "samosa",
-    nameMalayalam: "സമോസ",
-    nameTamil: "சமோசா",
-    englishSubtitle: "Crispy Vegetable Samosa",
-    descriptionMalayalam: "മസാലക്കൂട്ടിൽ വെന്ത ഉരുളക്കിഴങ്ങും പച്ചപ്പട്ടാണിയും നിറഞ്ഞ മൊരിഞ്ഞ സമോസ. നല്ല ചൂടോടെ ചായക്കൊപ്പം ആസ്വദിക്കാം.",
-    descriptionEnglish: "Golden triangular pastries packed with spiced potatoes, green peas, and fragrant herbs, fried to an irresistible crunch.",
-    image: "/images/menu-samosa.jpg",
-    price: null, // Set e.g. 15 or "₹15" when configured
-    badge: "Evening Special",
     category: "snacks",
   },
 ];

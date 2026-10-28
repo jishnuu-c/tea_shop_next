@@ -176,8 +176,8 @@ export default function VisitSection() {
           {/* Visual Media Right Panel */}
           <div className="visit-media-panel">
             <Image
-              src="/images/hero-food.jpg"
-              alt="മണിവട ചായയും വടയും"
+              src="/images/hero-vada-tea.jpg"
+              alt="മണിവട ചായയും മൊരിഞ്ഞ വടയും ചട്നി, ചമ്മന്തി, സാമ്പാറും"
               className="visit-media-img"
               width={600}
               height={420}

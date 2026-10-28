@@ -32,7 +32,13 @@ export default function MenuSection() {
                 <div className="menu-card-image-wrap">
                   <Image
                     src={item.image}
-                    alt={item.id === "idli" ? "Freshly steamed South Indian idli" : `${item.nameMalayalam} - ${item.englishSubtitle}`}
+                    alt={
+                      item.id === "idli"
+                        ? "Freshly steamed soft white Idli served with Chutney, Chammanthi, and Sambar"
+                        : item.id === "uzhunnu-vada"
+                        ? "Crispy golden Medu Vada served with Chutney, Chammanthi, and Sambar"
+                        : `${item.nameMalayalam} - ${item.englishSubtitle}`
+                    }
                     className="menu-card-image"
                     width={600}
                     height={400}

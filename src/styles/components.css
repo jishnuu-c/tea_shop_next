@@ -91,12 +91,16 @@
 
 /* FOOD MENU CARDS */
 .menu-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   gap: 32px;
 }
 
 .menu-card {
+  flex: 0 1 calc((100% - 64px) / 3);
+  min-width: 320px;
+  max-width: 380px;
   background-color: var(--color-pure-white);
   border-radius: var(--radius-lg);
   overflow: hidden;

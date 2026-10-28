@@ -65,8 +65,8 @@ export default function Hero() {
             {/* Main Food Photography Frame */}
             <div className="hero-main-photo-frame">
               <Image
-                src="/images/hero-food.jpg"
-                alt="തമിഴ് സ്റ്റൈൽ ചൂടുള്ള ചായയും മൊരിഞ്ഞ വടയും"
+                src="/images/hero-vada-tea.jpg"
+                alt="ചൂടുള്ള ചായയും മൊരിഞ്ഞ ഉഴുന്നുവടയും ചട്നി, ചമ്മന്തി, സാമ്പാർ കൂട്ടുകളും"
                 className="hero-main-photo"
                 width={600}
                 height={440}
